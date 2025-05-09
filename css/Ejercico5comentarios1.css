@@ -1,0 +1,19 @@
+﻿ body {
+        background-color: red; /* define el color de fondo */
+    }
+    p {
+        font-family:'Tahoma'; /*define una fuente*/
+        font-size:24px;  /*define el tamaño en 24 pixeles */
+        font-style:inherit; /*define el texto en negrita*/
+        text-align:center; /* define la alineaceon centrada de texto */ 
+    }
+
+    /* a continuacion profesor se muestra como ejemplo como podemos anular un script */
+
+    p {
+
+        /* font-family:'Tahoma'; 
+        font-size:24px;  */
+        font-style:inherit; /*define el texto en negrita*/
+        text-align:center; /* define la alineaceon centrada de texto */ 
+    }
